@@ -63,6 +63,7 @@ img{
     text-align: center;
     padding:10px;
     border-radius: 5px;
+    font-weight: bold;
 }
 
 .prvni{
@@ -79,7 +80,7 @@ img{
 }
 
 .fcb{
-    background-color:#3b5998;
+    background-color:#3b5998; 
 }
 
 .twt:active{
